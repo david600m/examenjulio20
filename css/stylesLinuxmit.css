@@ -1,0 +1,51 @@
+body {
+    font: 15px Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color:rgb(255, 255, 255);
+    
+
+}
+header {
+    background-color: black;
+    color:floralwhite;
+    padding-top: 50px;
+    min-height: 70px;
+    border-bottom: 5px solid  rgb(107, 172, 11);
+}
+
+header li {
+    float: left;
+    display: inline;
+    padding: 0 20px ;
+
+    }
+
+    header nav {
+        float: right;
+        margin-top: 30px;
+      }
+
+      header .resaltado, header .actual a {
+        color: #ffffff;
+        font-weight: bold;
+        
+
+        }
+
+
+h1 {
+    float: left;
+    padding-left: 20px;
+padding-right: 20px;
+    
+}
+
+
+.img1 {
+    width: 50px; height: 50px;
+    margin: 10px;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

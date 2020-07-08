@@ -11,8 +11,27 @@ header {
     color:floralwhite;
     padding-top: 50px;
     min-height: 70px;
-    border-bottom: 5px solid #a8ff07;
+    border-bottom: 5px solid rgba(216, 112, 147, 0.87);
 }
+header li {
+    float: left;
+    display: inline;
+    padding: 0 20px ;
+
+    }
+
+    header nav {
+        float: right;
+        margin-top: 30px;
+      }
+
+      header .resaltado, header .actual a {
+        color: #ffffff;
+        font-weight: bold;
+        
+
+        }
+
 
 h1 {
     float: left;

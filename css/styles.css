@@ -13,6 +13,29 @@ header {
     border-bottom: 5px solid #a8ff07;
 }
 
+header li {
+    float: left;
+    display: inline;
+    padding: 0 20px ;
+
+    }
+
+    header nav {
+        float: right;
+        margin-top: 30px;
+      }
+
+      header .resaltado, header .actual a {
+        color: #ffffff;
+        font-weight: bold;
+        
+
+        }
+
+
+
+
+
 h1 {
     float: left;
     padding-left: 20px;
@@ -31,7 +54,7 @@ h2 {
     margin-top: 3cm;
    margin-left: 3cm;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border-bottom:  5px black;
+    
 }
 
 .img2 {
@@ -41,7 +64,7 @@ h2 {
 }
 
 .escri{
-    border-bottom:  5px black;
+    
     font-variant: initial;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
