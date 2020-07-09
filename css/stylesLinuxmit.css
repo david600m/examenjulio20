@@ -49,3 +49,12 @@ padding-right: 20px;
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+footer{
+    background-color: grey;
+    font-size: .5cm;
+}
+button{
+    background-color: rgb(97, 223, 255);
+    border-bottom: cornsilk;
+}
