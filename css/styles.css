@@ -66,5 +66,6 @@ h2 {
 .escri{
     
     font-variant: initial;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-kerning: inherit;
+     
 }

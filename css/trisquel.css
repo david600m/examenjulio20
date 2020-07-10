@@ -73,6 +73,7 @@ h2 {
      footer{
         background-color: grey;
         font-size: .5cm;
+        margin-top: 20px;
     }
     button{
         background-color: rgb(97, 223, 255);
